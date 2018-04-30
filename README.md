@@ -5,7 +5,8 @@ BeerJS DC is a welcoming get-together for everyone who wants to learn about Java
 We meet the third Wednesday of the month. 
 That's all the planning we have: whoever shows up decides what happens.
 
-* **Our next meeting will be with @NodeDC, celebrating Node V4.0, on Tuesday September 8th, 2015 at [Churchkey, Logan Circle](http://churchkeydc.com/).**
+* **Our next meeting will be with @NodeDC, celebrating Node V10.0 & V4.0, on Wednesday May 2nd at [Big Hunt, Dupont Circle](http://thebighunt.net/).**
+  [Meetup](https://www.meetup.com/node-dc/events/250320197/) has additional details.
 
 * Our first meeting was June 19 at Beer and Bread in Dupont.
 
